@@ -2,6 +2,7 @@
 
 """This function adds two floats together."""
 
+
 def add(a: float, b: float) -> float:
     """
     Adds two floats together.
